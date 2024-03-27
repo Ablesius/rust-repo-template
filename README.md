@@ -2,7 +2,7 @@
 
 A foobar to frobnicate the baz of bubbles!
 
-This is how Markdown links work with references: [Example][example].
+Note: Markdown *reference* links don't seem to work on Github README files, so always use the [default](https://example.org) format.
 
 ## Getting Started
 
@@ -39,7 +39,3 @@ Contributors names and contact info
 
 <!-- Inspiration, code snippets, etc. -->
 *
-
-
-!<-- Link References -->
-[example]: https://example.org "Example Title - Example.org"
